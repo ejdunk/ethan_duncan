@@ -1,3 +1,13 @@
+title: Ethan Duncan # your name (or website title) here
+logo: "/images/Ethan's Professional Photo_1.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Data Scientist with 2+ years of research experience in analytics and a Masters of Information and Data Science from University of California, Berkeley. Previously at NASA Goddard Space Flight Center.
+  <br><br>
+  <a href="https://www.linkedin.com/in/ethan-duncan/">View my LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
-title: Ethan Duncan's homepage
-description: Bookmark this to keep an eye on my project updates!
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
