@@ -8,13 +8,13 @@ H2knOw is a web interface allows individuals in water stressed countries to loca
 
 <img src="images/H2knOw_webpage.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) 
 
 [View code on Colab]([[https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing](https://colab.research.google.com/drive/1z-qCgkSdWUGkNYjC8kzRYhhBzUfIglzf#scrollTo=W3DrXBfoYktQ)](https://colab.research.google.com/drive/1z-qCgkSdWUGkNYjC8kzRYhhBzUfIglzf?usp=sharing))
 
 ---
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
+### Ice to Meet You: Machine Learning Classification of Ice Blocks in Europa's Chaos Regions
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
 <img src="images/mobility.png?raw=true" />
