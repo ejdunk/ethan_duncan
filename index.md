@@ -36,7 +36,7 @@ This tool exposes legislative trends that restrict civil and human rights. It wa
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#)
 
-[View code on Github]((https://github.com/Human-Rights-First-Innovation-Lab/LegislativeTracker-FedLegPipeline))
+[View code on Github]((https://github.com/Human-Rights-First-Innovation-Lab/LegislativeTracker-FedLegPipeline)) (Temporarily Broken Link)
 
 [View Website/Dashboard](https://www.democracywatchtracker.com/)
 
