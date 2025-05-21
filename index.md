@@ -32,11 +32,10 @@ H2knOw is a web interface allows individuals in water stressed countries to loca
 ### Democracy Watch: Legislation Tracker 
 This tool exposes legislative trends that restrict civil and human rights. It was designed to help advocates, journalists, and concerned citizens monitor and respond to legislation that impacts our communities and restricts our rights. I improved model performance, lowered cost by simplifying pipeline functionality, and developed more rigorous testing metrics
 
-(Still working on getting access Github repository for this project)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#)
 
-[View code on Github]((https://github.com/Human-Rights-First-Innovation-Lab/LegislativeTracker-FedLegPipeline)) (Temporarily Broken Link)
+[View Technical Summary]([Democracy Watch Pipeline.pdf](https://github.com/user-attachments/files/20375680/Democracy.Watch.Pipeline.pdf)) 
 
 [View Website/Dashboard](https://www.democracywatchtracker.com/)
 
